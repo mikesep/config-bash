@@ -87,6 +87,7 @@ _prompt_construct_ps1()
 
 PS1="\$(_prompt_construct_ps1 '\D{%a %b %e %k:%M:%S %Z}' '\h' '\w')"
 
+# Exporting these is not necessary, but it does silence shellcheck's SC2034.
 export GIT_PS1_SHOWDIRTYSTATE=1
 export GIT_PS1_SHOWSTASHSTATE=1
 export GIT_PS1_SHOWUNTRACKEDFILES=1
