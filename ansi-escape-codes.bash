@@ -9,7 +9,7 @@
 
 # '\033' is escape
 
-ANSI_CSI="\033["
+ANSI_CSI="\\033["
 
 if [ -n "${TEST_ANSI_ESCAPE_CODES}" ] ; then
     # $1 = name
