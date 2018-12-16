@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # shellcheck source=ansi-escape-codes.bash
-source "$(dirname ${BASH_SOURCE[0]})/ansi-escape-codes.bash"
+source "$(dirname "${BASH_SOURCE[0]}")/ansi-escape-codes.bash"
 
 # Command Timing -- see https://stackoverflow.com/a/1862762
 
