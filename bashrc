@@ -9,6 +9,7 @@ ansi-escape-codes.bash
 bash-completion.bash
 file-listing.bash
 git-cdtop.bash
+horizontal-rule.bash
 prompt.bash
 up.bash
 EOD
