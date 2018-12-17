@@ -11,5 +11,6 @@ file-listing.bash
 git-cdtop.bash
 horizontal-rule.bash
 prompt.bash
+safer-commands.bash
 up.bash
 EOD
