@@ -13,4 +13,5 @@ horizontal-rule.bash
 prompt.bash
 safer-commands.bash
 up.bash
+vim.bash
 EOD
