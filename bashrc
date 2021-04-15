@@ -10,6 +10,7 @@ bash-completion.bash
 file-listing.bash
 git-cdtop.bash
 horizontal-rule.bash
+ripgrep.bash
 prompt.bash
 safer-commands.bash
 up.bash
