@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 # Adapted from http://brettterpstra.com/2015/02/20/shell-trick-printf-rules/
 

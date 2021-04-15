@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 # ANSI codes for use with printf
 # (or echo -e, though the OpenBSD xterm man page[1] says printf is more portable)

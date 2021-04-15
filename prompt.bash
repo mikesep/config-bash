@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 # shellcheck source=ansi-escape-codes.bash
 source "$(dirname "${BASH_SOURCE[0]}")/ansi-escape-codes.bash"

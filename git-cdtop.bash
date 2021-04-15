@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 # This has to be a bash function to make cd affect the shell.
 function git-cdtop

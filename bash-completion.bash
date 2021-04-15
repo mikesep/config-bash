@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 if brew --prefix >/dev/null 2>&1 ; then
   if [ -f "$(brew --prefix)/share/bash-completion/bash_completion" ] ; then
