@@ -7,6 +7,7 @@ done << EOD
 paths.bash
 ansi-escape-codes.bash
 bash-completion.bash
+editors.bash
 file-listing.bash
 git-cdtop.bash
 horizontal-rule.bash
